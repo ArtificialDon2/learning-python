@@ -7,4 +7,4 @@
 ## Notes
 - `.replace()` - replaces a specified phrase with another specified phrase.
 - `.lower()` - returns a string where all characters are lower case.
-- [::-1] - reverses a string. -> Syntax: [start:end:step].
+- `[::-1]` - reverses a string. -> Syntax: `[start:end:step]`.
