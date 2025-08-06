@@ -7,4 +7,4 @@
 - Output should be a list of those repeated words.
 
 ## Notes
-- 
+- `word_count = {}` -> dictionary, keeps track of how many times each word has appeared.
